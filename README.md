@@ -1,1 +1,1 @@
-# Document-Q-A-using-AWS-Bedrock-Langchain-and-Claude-Llama-2-model.
+# Document-Q-A-using RAG App With Gemma And Groq API.
